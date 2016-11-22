@@ -1,22 +1,22 @@
 {
-  "name": "grunt-aws-lambda",
+  "name": "@omgdigitalinc/grunt-aws-lambda",
   "description": "A grunt plugin to help develop AWS Lambda functions.",
   "version": "1.0.0",
-  "homepage": "https://github.com/simplemerchant/grunt-aws-lambda.git",
+  "homepage": "https://github.com/omgdigitalinc/grunt-aws-lambda.git",
   "author": {
     "name": "Tim-B",
     "email": "tim@galacticcode.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/simplemerchant/grunt-aws-lambda.git"
+    "url": "git://github.com/omgdigitalinc/grunt-aws-lambda.git"
   },
   "bugs": {
-    "url": "https://github.com/simplemerchant/grunt-aws-lambda.git/issues"
+    "url": "https://github.com/omgdigitalinc/grunt-aws-lambda.git/issues"
   },
   "licenses": [{
     "type": "MIT",
-    "url": "https://github.com/simplemerchant/grunt-aws-lambda.git/blob/master/LICENSE-MIT"
+    "url": "https://github.com/omgdigitalinc/grunt-aws-lambda.git/blob/master/LICENSE-MIT"
   }],
   "engines": {
     "node": ">= 0.8.0"
